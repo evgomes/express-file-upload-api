@@ -1,0 +1,9 @@
+{
+    "fileTypes": {
+        "images": {
+            "uploadPath": "/tests/integration/middlewares/file-upload/uploaded-files/",
+            "maxSize": 204800,
+            "extensions": [ "jpg" ]
+        }
+    }
+}
